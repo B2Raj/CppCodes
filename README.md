@@ -1,2 +1,2 @@
 # CppCodes
-Topic-Wise folder contain programs.
+Topic-Wise folder contain Topic-Wise programs.
