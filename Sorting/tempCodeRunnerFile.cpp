@@ -1,0 +1,1 @@
+cout<<"Your array is: ";
